@@ -1,4 +1,7 @@
 # fish_feeder
+
+![image](https://github.com/user-attachments/assets/decc2745-dc93-4acf-bb86-ad038419c31a)
+
 This is the python code to run the pneumatic fish feeder system which functions as follows:
 
 The food is placed in a clear plastic cylinder/hopper. There is an illumination LED strip to light it up on one side. A Pi camera on the opposite side to capture images of the tube and the food. This image will be used for tracking food consumption and level.
